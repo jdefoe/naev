@@ -17,7 +17,7 @@ else -- default english
     menutrade = "Tutorial: Trade"
     menumissions = "Tutorial: Missions and Events"
     menucomms = "Tutorial: Communications"
-    menux = "Quit to Main Menu"
+    menux = "Return"
 end
 
 function create()
